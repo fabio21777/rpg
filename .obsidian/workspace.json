@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "77e52cf7f0c77dbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A forma do medo/1 - A eclosão da loucura - prólogo/cap - 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,10 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9f545a15dd0226a",
+  "active": "77e52cf7f0c77dbe",
   "lastOpenFiles": [
-    "A forma do medo/1 - A eclosão da loucura - prólogo/prontuario.md",
+    "A forma do medo/1 - A eclosão da loucura - prólogo/Padre Paulo Ordem Paranormal - Ficha de Personagem Editável.pdf",
     "A forma do medo/1 - A eclosão da loucura - prólogo/diario.md",
+    "A forma do medo/1 - A eclosão da loucura - prólogo/prontuario.md",
     "A forma do medo/1 - A eclosão da loucura - prólogo/cap - 1.md",
     "A forma do medo/1 - A eclosão da loucura - prólogo/prontuario.pdf",
     "Untitled.canvas",
